@@ -29,6 +29,7 @@ Cuando pasa filtros probablemente sobre eso te haga fft y luego te la deshaga!
 High pass – 50 Hz
 Low pass – 1 Hz
 
+
 ### Python Código from mne: 
 
  ```python
