@@ -16,7 +16,7 @@ dependencies = [
 
 
 [project.optional-dependencies]
-# if you 
+# Extra tooling
 extra = [
     "mne>=1.8.0",
     "jupyterlab>=3",
