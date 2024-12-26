@@ -8,3 +8,18 @@ name = "phdtools"
 version = "0.1.0"
 description = "My PhD tools library"
 authors = [{ name = "Rosa Ayuso-Moreno", email = "rmayusom@unex.es" }]
+
+# Libraries to be installed among this library
+dependencies = [
+    "mne>=1.8.0",
+]
+
+
+[project.optional-dependencies]
+# if you 
+extra = [
+    "mne>=1.8.0",
+    "jupyterlab>=3",
+    "ipywidgets",
+    "ipython>=8.20.0",
+]
