@@ -19,3 +19,18 @@ distorsión (aliasing).
 ```python
 raw = raw.resample(125)
 ```
+
+## Bp filter (2nd step)
+
+### Teoría: 
+
+Cuando pasa filtros probablemente sobre eso te haga fft y luego te la deshaga!
+
+High pass – 50 Hz
+Low pass – 1 Hz
+
+### Código:
+
+ ``phtyon
+ raw.filter(l_freq=1, h_freq=50)
+ ```
