@@ -31,6 +31,6 @@ Low pass – 1 Hz
 
 ### Código:
 
- ``phtyon
+ ```phtyon
  raw.filter(l_freq=1, h_freq=50)
  ```
