@@ -29,7 +29,7 @@ Cuando pasa filtros probablemente sobre eso te haga fft y luego te la deshaga!
 High pass – 50 Hz
 Low pass – 1 Hz
 
-### Codigo:
+### Codigo para filtrado
 
  ```python
  raw.filter(l_freq=1, h_freq=50)
