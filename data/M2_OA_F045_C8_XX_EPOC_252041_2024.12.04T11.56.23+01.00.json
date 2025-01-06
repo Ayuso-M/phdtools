@@ -1,0 +1,24 @@
+{
+    "Markers": [
+    ],
+    "connectionType": "dongle",
+    "demographics": {
+        "birthday": null,
+        "countryOfInfluence": {
+            "iso": "",
+            "printable": ""
+        },
+        "countryOfResidence": {
+            "iso": "",
+            "printable": ""
+        },
+        "gender": "U"
+    },
+    "exportApp": "com.emotiv.emotivpro",
+    "exportTime": "2024-12-19T10:01:43.525+01:00",
+    "headsetType": "EPOC",
+    "mappings": null,
+    "montageType": "UNKNOWN",
+    "recordId": "ed96a42e-d6de-4062-9178-6547936885ec",
+    "user": "acafyde"
+}
