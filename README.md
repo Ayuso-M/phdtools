@@ -14,3 +14,10 @@ Otherwise, you can just do:
 ```terminal
 python -m pip install .
 ```
+
+The only dependency is [mne](mne.tools).
+If you want to install also the extra libraries such as Jupyter Notebooks and IPython, just do:
+
+```terminal
+python -m pip install '.[extra]'
+```
