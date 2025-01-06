@@ -1,5 +1,6 @@
 # Rename and reorganizate data
 
+# Import data
 
 # Workflow eeg preprocessing and processing
 ## Resampling
