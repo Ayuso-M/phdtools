@@ -172,3 +172,4 @@ cython_debug/
 venv
 data_eeg
 data_fitbit
+tmp
