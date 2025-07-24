@@ -104,8 +104,8 @@ def process_fif_files(input_folder, output_csv):
 # Main Execution
 if __name__ == "__main__":
     # Folder containing preprocessed `.fif` files
-    input_folder = "/Users/rosaayusomoreno/Desktop/phdtools/data/filtered_data"
-    output_csv = "/Users/rosaayusomoreno/Desktop/phdtools/data/filtered_data/results_power_bands.csv"
+    input_folder = "/Users/rosaayusomoreno/Desktop/phdtools/data_eeg/filtered_data"
+    output_csv = "/Users/rosaayusomoreno/Desktop/phdtools/data_eeg/filtered_data/results_power_bands.csv"
 
     # Process files and generate the results table
     process_fif_files(input_folder, output_csv)
